@@ -1,0 +1,209 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 471}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* OAuthDemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 490}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 272}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* OAuthDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 1988}}";
+			sepNavSelRange = "{2483, 0}";
+			sepNavVisRange = "{1896, 1159}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* OAuthDemo_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 465}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 149}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5B407BC511D9887100BE7B80 /* OAuthDemo */;
+		activeTarget = 8D1107260486CEB800E47090 /* OAuthDemo */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* OAuthDemo */,
+		);
+		codeSenseManager = 5B407BD411D988AD00BE7B80 /* Code sense */;
+		executables = (
+			5B407BC511D9887100BE7B80 /* OAuthDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					576,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 299519643;
+			PBXWorkspaceStateSaveDate = 299519643;
+		};
+		perUserProjectItems = {
+			5B24B3DC11DA4EAC001C332A /* PlistBookmark */ = 5B24B3DC11DA4EAC001C332A /* PlistBookmark */;
+			5B24B3E411DA581A001C332A /* PBXTextBookmark */ = 5B24B3E411DA581A001C332A /* PBXTextBookmark */;
+			5B24B3E511DA581A001C332A /* PBXTextBookmark */ = 5B24B3E511DA581A001C332A /* PBXTextBookmark */;
+			5B24B3E611DA581A001C332A /* PBXTextBookmark */ = 5B24B3E611DA581A001C332A /* PBXTextBookmark */;
+			5B24B41211DA62AB001C332A /* PBXTextBookmark */ = 5B24B41211DA62AB001C332A /* PBXTextBookmark */;
+			5B407C9E11D98F8A00BE7B80 /* PBXTextBookmark */ = 5B407C9E11D98F8A00BE7B80 /* PBXTextBookmark */;
+			5B407CBE11D9925000BE7B80 /* PBXTextBookmark */ = 5B407CBE11D9925000BE7B80 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5B407BD311D988AD00BE7B80 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5B24B3DC11DA4EAC001C332A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* OAuthDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Rodrigo/Projects/OAuthDemo/OAuthDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	5B24B3E411DA581A001C332A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* OAuthDemo_Prefix.pch */;
+		name = "OAuthDemo_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 149;
+		vrLoc = 0;
+	};
+	5B24B3E511DA581A001C332A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B407C2411D9895500BE7B80 /* OAMutableURLRequest.m */;
+		name = "OAMutableURLRequest.m: 214";
+		rLen = 69;
+		rLoc = 7679;
+		rType = 0;
+		vrLen = 1092;
+		vrLoc = 826;
+	};
+	5B24B3E611DA581A001C332A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* OAuthDemoAppDelegate.m */;
+		name = "OAuthDemoAppDelegate.m: 116";
+		rLen = 0;
+		rLoc = 3653;
+		rType = 0;
+		vrLen = 1130;
+		vrLoc = 841;
+	};
+	5B24B41211DA62AB001C332A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* OAuthDemoAppDelegate.m */;
+		name = "OAuthDemoAppDelegate.m: 81";
+		rLen = 0;
+		rLoc = 2483;
+		rType = 0;
+		vrLen = 1159;
+		vrLoc = 1896;
+	};
+	5B407BC511D9887100BE7B80 /* OAuthDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OAuthDemo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5B407BD311D988AD00BE7B80 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5B407BD411D988AD00BE7B80 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5B407C2411D9895500BE7B80 /* OAMutableURLRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1622, 3346}}";
+			sepNavSelRange = "{7679, 69}";
+			sepNavVisRange = "{826, 1092}";
+		};
+	};
+	5B407C9E11D98F8A00BE7B80 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* OAuthDemoAppDelegate.h */;
+		name = "OAuthDemoAppDelegate.h: 25";
+		rLen = 0;
+		rLoc = 520;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	5B407CBE11D9925000BE7B80 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* OAuthDemo */ = {
+		activeExec = 0;
+		executables = (
+			5B407BC511D9887100BE7B80 /* OAuthDemo */,
+		);
+	};
+}
